@@ -1,0 +1,34 @@
+{
+  "name": "gittr-cli",
+  "version": "0.0.1",
+  "description": "Query GitHub trending repos from the command-line",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "standard"
+  },
+  "bin": {
+    "gittr": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pmbenjamin/gittr-cli.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "trending",
+    "repos",
+    "repositories"
+  ],
+  "author": "Peter Benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmbenjamin/gittr-cli/issues"
+  },
+  "homepage": "https://github.com/pmbenjamin/gittr-cli#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "yargs": "^6.5.0"
+  }
+}
