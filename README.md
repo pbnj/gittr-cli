@@ -1,4 +1,6 @@
 # gittr-cli
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/gittr-cli.svg)](https://greenkeeper.io/)
 Query GitHub trending repositories from the command-line
 
 ## Install
