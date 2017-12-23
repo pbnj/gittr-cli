@@ -29,6 +29,6 @@
   "homepage": "https://github.com/pmbenjamin/gittr-cli#readme",
   "dependencies": {
     "request": "^2.79.0",
-    "yargs": "^6.5.0"
+    "yargs": "^10.0.3"
   }
 }
